@@ -1,0 +1,8 @@
+.posterImage{
+    border-radius: 30px;
+    position: relative;
+}
+.infoFLex{
+    display: flex;
+    flex-direction: column-reverse;
+}
