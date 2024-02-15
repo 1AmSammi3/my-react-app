@@ -9,4 +9,4 @@ let Data =[
         moviename: "Spiderman into the Spiderverse",
         imageSRC: "./src/assets/images/webimage2.png"
     }
-]
+] 
